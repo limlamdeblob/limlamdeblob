@@ -18,15 +18,11 @@ I enjoy experimenting with different languages, tools, and small projects whenev
 
 ## 🌱 Currently Learning
 - Whatever catches my attention this week 😄  
-(Feel free to check my repos to see what I’m tinkering with.)
 
 ## 🤝 I’m Always Open To…
 - Tips and constructive feedback  
 - Friendly discussions  
 - Simple collaboration on fun or educational projects
-
-## 📫 How to Reach Me
-You can contact me through GitHub issues or discussions.
 
 ---
 
