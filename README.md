@@ -21,7 +21,8 @@ I enjoy experimenting with different languages, tools, and small projects whenev
 
 
 ## 🌱 Currently Learning
-- Whatever catches my attention this week 😄  
+- Python
+- Ardruino
 
 
 ## 🤝 I’m Always Open To…
