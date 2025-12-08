@@ -1,37 +1,30 @@
-# 👋 Hi, I'm limlamdeblob
+# Hi, I'm limlamdeblob
 
+## Hobbyist Developer
+I code for fun, curiosity, and the satisfaction of building things that work. I enjoy experimenting with different languages, tools, and small projects whenever inspiration strikes.
 
-## 🧑‍💻 Hobbyist Developer
-I code for fun, curiosity, and the joy of building things that *just work*.  
-I enjoy experimenting with different languages, tools, and small projects whenever inspiration strikes.
+## What I Work With
+- Scripting and utility development
+- Self-paced exploration of new technologies
+- Small-scale projects that solve specific problems
+- Game development, automation, and experimental projects
 
+## Repository Contents
+This profile contains a mix of:
+- Experimental code and prototypes
+- Personal tools and utilities
+- Learning projects
+- Concept implementations
 
-## 🔧 What I Like Working With
-- 🛠️ Messing around with scripting and small utilities  
-- 💡 Learning new technologies at my own pace  
-- 🧩 Building random projects that solve tiny problems  
-- 🕹️ Exploring game dev, automation, or anything that seems interesting
-
-
-## 📂 Some Things You Might Find Here
-- Small experiments  
-- Personal tools  
-- Learning projects  
-- Random ideas turned into code  
-
-
-## 🌱 Currently Learning
+## Currently Learning
 - Python
-- Ardruino
+- Arduino
 
-
-## 🤝 I’m Always Open To…
-- Tips and constructive feedback  
-- Friendly discussions  
-- Simple collaboration on fun or educational projects
-
+## Open To
+- Constructive feedback and suggestions
+- Technical discussions
+- Collaboration on educational or hobby projects
 
 ---
 
-
-Thanks for stopping by — enjoy your scroll through my little corner of GitHub!
+Thanks for visiting my GitHub profile.
